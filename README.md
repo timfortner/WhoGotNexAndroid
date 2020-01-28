@@ -5,11 +5,6 @@ then either join or create a game for others to join. Eventually a point
 tracking system will be added, so that users can compare stats and find out who
 is the best and who got nex.
 
-## Motivation
-The motivation behind the development of this app was to make our clients idea 
-a reality. We were met with his idea during our first meeting in CS4540 and his
-idea very much resonated with our team.
-
 ## Installation
 To properly view our project, you will need the latest version of android Studio
 and a JDK of 8.1.4 or higher.
